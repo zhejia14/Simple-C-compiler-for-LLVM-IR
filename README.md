@@ -73,5 +73,5 @@ This project is a simple compiler implemented using ANTLR 3.5.3 and Java that tr
 ```
 4. Run LLVM IR if LLVM is installed:
 ```
-lli input1.ll
+    lli input1.ll
 ```
