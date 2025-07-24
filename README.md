@@ -1,4 +1,4 @@
-# Simple C to LLVM IR Compiler
+# Simple C Compiler for LLVM IR
 
 This project is a simple compiler implemented using ANTLR 3.5.3 and Java that translates a subset of the C language into LLVM Intermediate Representation (.ll).
 
