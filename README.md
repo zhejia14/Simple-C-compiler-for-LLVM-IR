@@ -63,8 +63,8 @@ This project is a simple compiler implemented using ANTLR 3.5.3 and Java that tr
 1. Generate Lexer and Parser with ANTLR from `SimpleCompiler.g` (generated files already provided)  
 2. Compile the Java code:
 ```
-	java -cp ./antlr-3.5.3-complete.jar org.antlr.Tool SimpleCompiler.g
-	javac -cp ./antlr-3.5.3-complete.jar: *.java
+    java -cp ./antlr-3.5.3-complete.jar org.antlr.Tool SimpleCompiler.g
+    javac -cp ./antlr-3.5.3-complete.jar: *.java
 ```
 
 3. Run the compiler to convert C source code to LLVM IR:
