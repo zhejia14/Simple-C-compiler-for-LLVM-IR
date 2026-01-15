@@ -41,7 +41,7 @@ This project is a simple compiler implemented using ANTLR 3.5.3 and Java that tr
   - Integer and floating-point comparison and arithmetic  
   - Full support for above control flow and function calls as described  
 
-## File Structure and Recommended Renaming
+## File Structure
 
 | Filename      |  Description                                       |
 |-----------------------|-------------------------------------------------|
